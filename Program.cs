@@ -5,7 +5,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("HUHU bug");
+            System.Console.WriteLine("HUHU buggy");
         }
     }
 }
